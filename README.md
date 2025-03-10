@@ -4,8 +4,8 @@
 ## About Me  
 I'm a passionate **Python Backend Developer** with experience in building scalable and efficient web applications.  
 I enjoy working with modern technologies and continuously improving my skills. 
-- 💬 Ask me about: **Python, Django, REST APIs, and backend development**
-- 📧 How to reach me: abdumavlonovabdurahmon75@gmail.com  
+- 💬 Ask me about: **Python, Django, REST APIs, and backend development, and testing with Pytest**
+- 📧 How to reach me: **abdumavlonovabdurahmon75@gmail.com**  
 
 ## 🔧 Skills & Technologies  
 
@@ -15,6 +15,7 @@ I enjoy working with modern technologies and continuously improving my skills.
 ### Frameworks & Libraries  
 ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=flat-square&logo=fastapi)  
+![Pytest](https://img.shields.io/badge/-Pytest-yellow?style=flat-square&logo=pytest)
 
 ### Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)  
