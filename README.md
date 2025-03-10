@@ -13,20 +13,30 @@ I enjoy working with modern technologies and continuously improving my skills.
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
 
 ### Frameworks & Libraries  
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=flat-square&logo=fastapi)  
-![Pytest](https://img.shields.io/badge/-Pytest-yellow?style=flat-square&logo=pytest)
+<p>
+  <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/-FastAPI-teal?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-Pytest-yellow?style=flat-square&logo=pytest" />
+</p>
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
- 
+<p>
+  <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman" />
+</p>
+
 ### Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)  
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql" />
+</p>
 
 ### IDEs & Editors  
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)  
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)  
+<p>
+  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm" />
+</p>
 
 
