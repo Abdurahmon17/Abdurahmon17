@@ -67,7 +67,7 @@ I enjoy solving real-world problems, working with modern tools, and continuously
 
 | Project                                                               | Description                                                                                 |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Code\_uz](https://github.com/Abdurahmon17/code_uz_blog)              | Blog platforma (Django) - GitHub linkli rasm yuklash                                        |
+| [Code\_uz](https://github.com/Abdurahmon17/Code_uz)                   | Blog platforma (Django) - GitHub linkli rasm yuklash                                        |
 | [crm\_system](https://github.com/Abdurahmon17/crm_system)             | Django CRM, authentication, superuser, reports, deployed to PythonAnywhere                  |
 | [watch\_sell](https://github.com/Abdurahmon17/watch_sell)             | Soat sotish platformasi - register, email code tekshiruvi bilan, deployed to PythonAnywhere |
 | [kindergarten\_org](https://github.com/Abdurahmon17/kindergarden_org) | Bolalar bog‘chasi tizimi (Django, Celery, DRF, JWT), AWS EC2 orqali deploy qilingan         |
